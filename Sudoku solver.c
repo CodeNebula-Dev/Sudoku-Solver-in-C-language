@@ -1,5 +1,4 @@
-/*
-----------------------------------------------------NAME : DEVANSH KHOSLA----------------------------------------------------------*/
+
 #include <stdio.h>
 #include <stdbool.h>// bool library is used for putting true or false statements
 
