@@ -9,4 +9,6 @@ SIZE is set to 9 because Sudoku grids are 9x9.
 
 -------------------------------------------------------------
 
+Backtracking Algorithm is Used in this Program
+
 
