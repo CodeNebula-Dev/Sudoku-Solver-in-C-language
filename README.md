@@ -1,4 +1,4 @@
-#This C program solves a 9x9 Sudoku puzzle using backtracking
+This C program solves a 9x9 Sudoku puzzle using backtracking
 
 
 stdio.h is used for input/output functions (printf, scanf).
